@@ -1,11 +1,13 @@
+# OXO Redesign
+A minimal Tic Tac Toe redesign featuring a clean 3x3 grid, simple X and O markers, and a clutter-free layout. Ideal for web and mobile prototypes or UI concept projects.
+Check out: [OXO](https://oxo.figma.site)
 
-  # OXO Redesign
+## Features
+* Clean and minimal design
+* Editable X and O markers
+* Fully customizable colors and typography
+* Responsive layout for web and mobile
 
-  This is a code bundle for OXO Redesign. The original project is available at https://www.figma.com/design/GaUsUGKugNvLOvQG5eAIkR/OXO-Redesign.
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Getting Started
+git clone https://github.com/breeze-sn/OXO.git
